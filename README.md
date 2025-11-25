@@ -26,7 +26,7 @@ The token notifications screen allows you to:
 - Copy the token to clipboard
 - Send notifications to specific devices using their tokens
 
-![Token Notification Screen](token-notification.png)
+<img src="token-notification.png" alt="Token Notification Screen" width="400" style="max-width: 100%;">
 
 ### Topic Notifications Screen
 
@@ -35,25 +35,25 @@ The topic notifications screen allows you to:
 - Subscribe/unsubscribe to the "everyone" topic
 - Send notifications to all subscribed devices
 
-![Topic Notification Screen](topic-notification.png)
+<img src="topic-notification.png" alt="Topic Notification Screen" width="400" style="max-width: 100%;">
 
 ### Success Notification
 
 When a notification is successfully sent, you'll see a confirmation message:
 
-![Success Notification](succesfull-notification.png)
+<img src="succesfull-notification.png" alt="Success Notification" width="400" style="max-width: 100%;">
 
 ### iOS APNs Configuration
 
 Configure APNs authentication key or certificate in Firebase Console:
 
-![iOS APNs Configuration](ios-apn-configuration.png)
+<img src="ios-apn-configuration.png" alt="iOS APNs Configuration" width="700" style="max-width: 100%;">
 
 ### Service Account Configuration
 
 Generate and download the service account key from Firebase Console:
 
-![Service Account Configuration](service-account-configuration.png)
+<img src="service-account-configuration.png" alt="Service Account Configuration" width="700" style="max-width: 100%;">
 
 ## Prerequisites
 
